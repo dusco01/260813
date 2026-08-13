@@ -18,5 +18,14 @@
     <ClCompile Include="0813_v_01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="0813_v_02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="0813_v_03.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="0813_v_04.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
